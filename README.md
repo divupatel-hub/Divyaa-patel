@@ -1,5 +1,4 @@
-# Divyaa-patel
-<!DOCTYPE html>
+# Divyaa-patel 
 <html lang="en">
 <head>
 <meta charset="UTF-8">
